@@ -59,7 +59,7 @@ The websites listed below has free certificates upon completion.
 
 - [freeCodeCamp](https://freecodecamp.org)
 - [Kaggle](https://kaggle.com)
-- [LambdaTest](https://www.lambdatest.com/learning-hub)
+- [LambdaTest](https://lambdatest.com/certifications)
 - [SoloLearn](https://sololearn.com)
 
 ## Designs and Codes
